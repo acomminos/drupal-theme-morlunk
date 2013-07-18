@@ -1,0 +1,2 @@
+Changes made for Morlunk theme templates:
+- Removed placing title in page code, always insert into node. This makes the title consistent between pages and nodes.
